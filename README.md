@@ -5,7 +5,7 @@
 
 ### Favourite tools :hammer: :wrench: :rocket: :
 
-<a href="https://www.python.org/">[<img align="left" href="https://www.python.org/" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572" /]></a>
+<a href="https://www.python.org/"><img align="left" href="https://www.python.org/" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572"></a>
 
 <a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="64px" src="https://im0-tub-ru.yandex.net/i?id=8a83f039314a229409bd33ec5cd6c9d5&n=13&exp=1"></a>
 
