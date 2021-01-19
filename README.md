@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
 
 <br></br>
-
+---
 
 ### Source information :speech_balloon: :family: :books::
 <a href="https://www.google.com"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
