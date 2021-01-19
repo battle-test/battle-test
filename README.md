@@ -3,7 +3,7 @@
 
 <img align="middle" alt="FunPic" width="700px" src="https://sun9-10.userapi.com/c630225/v630225084/a015/Vh5uTCc3AOE.jpg?ava=1" />
 
-My favourite tools :hammer: :wrench: :rocket: :
+Favourite tools :hammer: :wrench: :rocket: :
 
 <a href="https://www.python.org/"><img align="left" href="https://www.python.org/" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572"></a>
 
@@ -25,5 +25,7 @@ My favourite tools :hammer: :wrench: :rocket: :
 
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>
 
+
+Source information: :family: :speech_balloon: :books:
 
 
