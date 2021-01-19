@@ -6,8 +6,6 @@ Python-programmer. I am well-versed in the language, I develop my own projects a
 
 Skills: LINUX / PYTHON / DOCKER / ML / PYTROCH
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
