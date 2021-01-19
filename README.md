@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nikita
 #### I am machine learning engineer. :rocket:
 
-![](https://sun9-10.userapi.com/c630225/v630225084/a015/Vh5uTCc3AOE.jpg?ava=1")
+                                                ![](https://sun9-10.userapi.com/c630225/v630225084/a015/Vh5uTCc3AOE.jpg?ava=1")
 
 My favourite tools: :hammer:
 
