@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
 
 <br></br>
-<br></br>
+
 
 ### Source information :speech_balloon: :family: :books::
 <a href="https://www.google.com"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
@@ -43,7 +43,6 @@
 <a href="https://www.youtube.com"><img align="left" alt="YouTube" width="64px" src="https://static.tildacdn.com/tild3236-3232-4034-b338-316562643964/photo-you-tube.jpg"></a>
 
 <a href="https://arxiv.org/"><img align="left" alt="ArxivOrg" width="64px" src="https://static10.tgstat.ru/channels/_0/c9/c9857b68252c987addbe7f59fae3872c.jpg"></a>  
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
