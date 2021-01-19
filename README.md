@@ -32,7 +32,7 @@
 ### Source information :speech_balloon: :family: :books::
 <a href="https://www.google.com"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
 
-<a href="https://habr.com"><img align="left" alt="PostgreSQL" width="64px" src="https://im0-tub-ru.yandex.net/i?id=752e456cc93b021d302eca716a1dbae6&n=13&exp=1"></a>
+<a href="https://habr.com"><img align="left" alt="Habr" width="64px" src="https://yt3.ggpht.com/a/AATXAJzDeqKeFdwlicP_eXoyYh6L8pyiOiBJabClt-Q89g=s900-c-k-c0xffffffff-no-rj-mo"></a>
 
 <a href="https://www.kaggle.com"><img align="left" alt="Kaggle" width="64px" src="https://id-lab.ru/wp-content/uploads/2019/05/kaggle-1-1024x731.jpg"></a>
 
