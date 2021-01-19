@@ -30,10 +30,14 @@
 
 ---
 ### Source information :speech_balloon: :family: :books::
-<a href="https://www.google.com//"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>  
+<a href="https://www.google.com//"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
 
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
-<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
+<a href="https://habr.com//"><img align="left" alt="PostgreSQL" width="64px" src="https://im0-tub-ru.yandex.net/i?id=752e456cc93b021d302eca716a1dbae6&n=13&exp=1"></a>
+
+<a href="https://www.kaggle.com//"><img align="left" alt="Kaggle" width="64px" src="https://id-lab.ru/wp-content/uploads/2019/05/kaggle-1-1024x731.jpg"></a>
+
+<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>
+
+<a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>
+
+<a href="https://www.youtube.com/"><img align="left" alt="YouTube" width="64px" src="https://avatanplus.com/files/resources/original/5737fc1e0a528154b2b0d55a.jpg"></a>  
