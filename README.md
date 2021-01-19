@@ -5,7 +5,7 @@
 
 My favourite tools :hammer: :wrench: :rocket: :
 
-<img align="left" alt="Python" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572" href="https://www.python.org/">>
+<img align="left" alt="Python" width="64px" ref="https://www.python.org/" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572" h>
 <img align="left" alt="PyCharm" width="64px" src="https://im0-tub-ru.yandex.net/i?id=8a83f039314a229409bd33ec5cd6c9d5&n=13&exp=1" />
 <img align="left" alt="pandas" width="64px" src="https://pbs.twimg.com/media/EI0LnmaXYAA-jS6.jpg" />
 <img align="left" alt="scikit-learn" width="64px" src="https://yandex-images.naydex.net/4Qrn72p84/06089dOuC/MGL5N7KIRCM__joad9IDFDBlVj6_qsa9cDWfjznYnOUJEUylUSOwg6zOBsLFLld-cSiL3J0DCdwNM4sC2bGX0i0i_U762HlWG79iPwau7_zV2ebWUl5HXfCcjsJFzdXFcVUQTO1v5FeZ59Zj0YvWv6jpGs1NO6glTOpC0hkVsrLMC3jTPhTF029_2nLTLptk2YUGkuY-1xFcCH7CnUlV6BVZ4NBcy0CveXsuQxUfCg_k0f49GTfQ5VSmCjaNteYyXPeMz8bsjZMvz2Li196LEOVhji6qfishCOgmyvmNHTxFwUhktHvsQ6VPZkNN4_aDCK16Ce3fCIVoyiY2keGK2jQzYA9KPCnDZ6PWehM2dwzByTL2Skr7EXD4_sJJWf1gwQFsCCDr7NvhNwIXBZuKu7jNHsVNW_iR0B5uJrW9Wh44SxzTagiFn09jLlZvMp88QeG2Zk6yQ6EM4ILqNXX9oCkZgPw0p6AjSacmA-ErUpsEWYqRFVuUjcBKqk6VjbaOHFPkEyLYWdffP54a47YfsHFV_u6m0u_1WBjiEqVhSXzRNVAARFdsJ2F3Yu_F57pvKFUGDZETiFn0bnIOPTFuCjAfnC_yhPFzU6_GHqfmT8R1uUquXhpfiVDAzurZHWV0wT3k4IhXtNOFM9qbRbMGcwxp1pl5rxSZCLoiKh2t0iZYY3hL7hT9j8ufztpvjgMkmeU6njJK96l07NJmUcWJ7AnZlOgw0zSvDb8Saw2zSisI_co5FbssdcAa2v71IfISPMPYI6IEfQuTlyrCyyojSDXp1gJazrchgBBaAlUZqSB9sWiczL8EIzm_ekPVi7prtDlKVVW7oCn02g5KGam-fkTnNEtqbHl_uyM6Zt_W8yhlmU5CvsIj7WCoXk4ZFcXkzTFcgADPqK8Zm_qzDS9O4wgxTmVdnyB9yHa6AoG9Wuo0mzCfCozVOyMzNvYnYhtgidXKznaaJ03MNMoGUU1k" />
