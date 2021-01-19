@@ -34,7 +34,7 @@
 
 <a href="https://habr.com"><img align="left" alt="Habr" width="64px" src="https://yt3.ggpht.com/a/AATXAJzDeqKeFdwlicP_eXoyYh6L8pyiOiBJabClt-Q89g=s900-c-k-c0xffffffff-no-rj-mo"></a>
 
-<a href="https://www.kaggle.com"><img align="left" alt="Kaggle" width="64px" src="https://id-lab.ru/wp-content/uploads/2019/05/kaggle-1-1024x731.jpg"></a>
+<a href="https://www.kaggle.com"><img align="left" alt="Kaggle" width="64px" src="https://yt3.ggpht.com/a/AATXAJzI6aD2dQnRgWJFYZk_HNeALJsIoYYt6qC8QKsz=s900-c-k-c0xffffffff-no-rj-mo"></a>
 
 <a href="https://stackoverflow.com"><img align="left" alt="StackOverFlow" width="64px" src="http://boranorbert.hitelesforditas.ro/images/partnerek/stackoverflow.jpg"></a>
 
