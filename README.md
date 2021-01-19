@@ -43,9 +43,13 @@
 <a href="https://www.youtube.com"><img align="left" alt="YouTube" width="64px" src="https://static.tildacdn.com/tild3236-3232-4034-b338-316562643964/photo-you-tube.jpg"></a>
 
 <a href="https://arxiv.org/"><img align="left" alt="ArxivOrg" width="64px" src="https://static10.tgstat.ru/channels/_0/c9/c9857b68252c987addbe7f59fae3872c.jpg"></a>  
+
+<br></br>
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="battle-test's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=battle-test&show_icons=true&hide_border=true" />  
+  
 </details>
