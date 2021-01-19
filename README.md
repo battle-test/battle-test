@@ -24,6 +24,7 @@ Favourite tools :hammer: :wrench: :rocket: :
 <a href="https://github.com/"><img align="left" alt="GitHub" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919847.svg?token=exp=1611087811~hmac=2898e9db5baf41b16398e76a19f22500"></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
 
+<br>
 Source information: :family: :speech_balloon: :books:
 
 
