@@ -19,7 +19,7 @@ My favourite tools :hammer: :wrench: :rocket: :
 
 <a href="https://www.linux.org/"><img align="left" alt="linux" width="64px" src="https://avatars.mds.yandex.net/get-zen_doc/1535103/pub_5e8a43fd7dce0e10edfc8f49_5e8a446b6fbb7e67a1d8d360/scale_1200"></a>
 
-<a href="https://www.docker.com/>"<img align="left" alt="Docker" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1611087811~hmac=52ca216ca887eb2925f1cec9e9519c99"></a>
+<a href="https://www.docker.com/"><img align="left" alt="Docker" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1611087811~hmac=52ca216ca887eb2925f1cec9e9519c99"></a>
 
 <a href="https://github.com/"><img align="left" alt="GitHub" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919847.svg?token=exp=1611087811~hmac=2898e9db5baf41b16398e76a19f22500"></a>
 
