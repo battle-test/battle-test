@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Nikita
-#### I am a machine learning researcher and developer
+#### I am a machine learning researcher and developer :surfer:
 
 ![](https://sun9-10.userapi.com/c630225/v630225084/a015/Vh5uTCc3AOE.jpg?ava=1")
 
-My favourite tools: :hammer: :rocket:
+My favourite tools: :hammer: :wrench: :rocket:
 
 <img align="left" alt="Python" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1611087811~hmac=d7c0f8602144499939462bdac4a84572" />
 <img align="left" alt="PyCharm" width="64px" src="https://im0-tub-ru.yandex.net/i?id=8a83f039314a229409bd33ec5cd6c9d5&n=13&exp=1" />
