@@ -5,7 +5,7 @@
 
 ### Favourite tools :hammer: :wrench: :rocket::
 
-<a href="https://www.python.org/"><img align="left" src="https://yt3.ggpht.com/a/AATXAJxoJHjzqI36x17A34d8Yonpa3dw59Kx0s9YbA=s900-c-k-c0xffffffff-no-rj-mo"></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="64px" src="https://yt3.ggpht.com/a/AATXAJxoJHjzqI36x17A34d8Yonpa3dw59Kx0s9YbA=s900-c-k-c0xffffffff-no-rj-mo"></a>
 
 <a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="64px" src="https://im0-tub-ru.yandex.net/i?id=8a83f039314a229409bd33ec5cd6c9d5&n=13&exp=1"></a>
 
@@ -19,7 +19,7 @@
 
 <a href="https://www.linux.org/"><img align="left" alt="linux" width="64px" src="https://avatars.mds.yandex.net/get-zen_doc/1535103/pub_5e8a43fd7dce0e10edfc8f49_5e8a446b6fbb7e67a1d8d360/scale_1200"></a>
 
-<a href="https://www.docker.com/"><img align="left" alt="Docker" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1611087811~hmac=52ca216ca887eb2925f1cec9e9519c99"></a>
+<a href="https://www.docker.com/"><img align="left" alt="Docker" width="64px" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?"></a>
 
 <a href="https://github.com/"><img align="left" alt="GitHub" width="64px" src="https://portal.edu.asu.ru/blocks/exaport/item_thumb.php?item_id=3007&access=hash/24570-416d5448"></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
