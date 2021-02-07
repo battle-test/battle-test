@@ -16,9 +16,8 @@
 <a href="https://github.com/"><img align="left" alt="GitHub" width="64px" src="https://portal.edu.asu.ru/blocks/exaport/item_thumb.php?item_id=3007&access=hash/24570-416d5448"></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
 <br> </br>  
-<div class="left"> 
+<div class="left"> </div>  
 ### Source information :speech_balloon: :family: :books::
-</div>  
 <a href="https://www.google.com"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
 <a href="https://yandex.ru/"><img align="left" alt="ArxivOrg" width="64px" src="https://jayp.ru/wp-content/uploads/2020/05/yandexlogo.jpg"></a>
 <a href="https://habr.com"><img align="left" alt="Habr" width="64px" src="https://yt3.ggpht.com/a/AATXAJzDeqKeFdwlicP_eXoyYh6L8pyiOiBJabClt-Q89g=s900-c-k-c0xffffffff-no-rj-mo"></a>
