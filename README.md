@@ -3,7 +3,7 @@
 
 <img align="middle" alt="FunPic" width="700px" src="https://sun9-10.userapi.com/c630225/v630225084/a015/Vh5uTCc3AOE.jpg?ava=1" />
 
-### Favourite tools :hammer: :wrench: :rocket::
+Favourite tools :hammer: :wrench: :rocket::
 
 <a href="https://www.python.org/"><img align="left" alt="Python" width="64px" src="https://yt3.ggpht.com/a/AATXAJzPnyPaYP5fWh75Gol-3PV0hmD2R4gNRZGeTzW69w=s900-c-k-c0xffffffff-no-rj-mo"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="64px" src="https://im0-tub-ru.yandex.net/i?id=8a83f039314a229409bd33ec5cd6c9d5&n=13&exp=1"></a>
@@ -16,8 +16,9 @@
 <a href="https://github.com/"><img align="left" alt="GitHub" width="64px" src="https://portal.edu.asu.ru/blocks/exaport/item_thumb.php?item_id=3007&access=hash/24570-416d5448"></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="64px" src="https://www.2ndquadrant.com/wp-content/uploads/2019/07/Postgres-Elephant-Slonik.png"></a>  
 <br> </br>  
-<div class="left"> </div>  
-### Source information :speech_balloon: :family: :books::
+<div class="left">  
+Source information :speech_balloon: :family: :books::
+</div> 
 <a href="https://www.google.com"><img align="left" alt="Google" width="64px" src="https://www.phonedo.ru/wp-content/uploads/2017/04/Google_-G-_Logo.svg_.png"></a>
 <a href="https://yandex.ru/"><img align="left" alt="ArxivOrg" width="64px" src="https://jayp.ru/wp-content/uploads/2020/05/yandexlogo.jpg"></a>
 <a href="https://habr.com"><img align="left" alt="Habr" width="64px" src="https://yt3.ggpht.com/a/AATXAJzDeqKeFdwlicP_eXoyYh6L8pyiOiBJabClt-Q89g=s900-c-k-c0xffffffff-no-rj-mo"></a>
