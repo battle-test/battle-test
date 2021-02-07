@@ -15,7 +15,7 @@
 
 <a href="https://pytorch.org/"><img align="left" alt="PyTorch" width="64px" src="https://2.bp.blogspot.com/-ofgG__VD7Zw/XCEs2OY92RI/AAAAAAAAAxU/9FT2qCmFlsEqGyr47117H086OnMu_xGCwCPcBGAYYCw/s1600/pytorch-logo.png"></a>
 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img align="left" alt="bash" width="64px" src="https://img.favpng.com/8/25/13/bash-scalable-vector-graphics-logo-printf-format-string-bourne-shell-png-favpng-JsQTcBsn2AH61CTpm6gZShPJk.jpg"></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img align="left" alt="bash" width="64px" src="https://sun9-44.userapi.com/c824701/v824701433/a8168/U9kz4ofponk.jpg?ava=1"></a>
 
 <a href="https://www.linux.org/"><img align="left" alt="linux" width="64px" src="https://avatars.mds.yandex.net/get-zen_doc/1535103/pub_5e8a43fd7dce0e10edfc8f49_5e8a446b6fbb7e67a1d8d360/scale_1200"></a>
 
