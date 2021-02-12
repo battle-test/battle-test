@@ -1,5 +1,4 @@
 ## Hi there 👋, my name is Nikita
-### I am machine learning engineer :surfer:
 
 Favourite tools :hammer: :wrench: :rocket::
 
